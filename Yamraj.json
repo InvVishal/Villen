@@ -1,10 +1,10 @@
 {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Server Off!!!",
     "opentime":" ",
     "libs":"https://github.com/InvVishal/Villen/raw/refs/heads/main/libZeroOp.zip",
-    "notice_title":"Welcome Vip Users",
+    "notice_title":"",
     "notice_body":""
 }
