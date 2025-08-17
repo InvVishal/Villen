@@ -1,8 +1,8 @@
 {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
-    "servermeassage":"Server Off!!!",
+    "servermeassage":"Under Maintenance!!!",
     "opentime":" ",
     "libs":"https://github.com/InvVishal/Villen/raw/refs/heads/main/libZeroOp.zip",
     "notice_title":"",
